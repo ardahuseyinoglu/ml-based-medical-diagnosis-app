@@ -1,0 +1,1 @@
+{"best_classifier": "RandomForestClassifier", "best_classifier_params": "criterion= 'entropy', max_features= 'sqrt', min_samples_leaf= 1, min_samples_split= 15", "best_model_feature_names": ["Feature_3", "Feature_28", "Feature_29", "Feature_33", "Feature_37", "Feature_39", "Feature_41", "Feature_43"]}
