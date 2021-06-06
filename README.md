@@ -6,3 +6,7 @@
 
 **How to run** <br>
 ```streamlit run app.py```
+
+
+
+![Demo](demo/demo.gif)
